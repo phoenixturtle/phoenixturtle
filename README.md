@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phoenixturtle
-- 👀 I’m interested in code, music and visual art
+- 👀 I’m interested in front-end, design and electronic music
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Frontend
 - 📫 How to reach me stacy.kar94@gmail.com
