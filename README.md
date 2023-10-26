@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phoenixturtle
 - 👀 I’m an ios developer interested in design and electronic music
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently ios development
 - 💞️ I’m looking to collaborate on Frontend
 - 📫 How to reach me stacy.kar94@gmail.com
 
