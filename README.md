@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phoenixturtle
-- 👀 I’m an ios developer interested in design and electronic music
+- 👀 I’m a creative frontend developer interested in design and electronic music
 - 🌱 I’m currently learning ios development
 - 💞️ I’m looking to collaborate on product creation 
 - 📫 How to reach me stacy.kar94@gmail.com
